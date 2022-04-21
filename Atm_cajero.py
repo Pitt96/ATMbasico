@@ -1,5 +1,6 @@
 """Es un ejercicio basico en python
 Aautor:pitt"""
+#para instalar tqdm usas este comando : pip install tqdm
 import time
 from tqdm import tqdm
 print("\n              -------------------------------------------------------------INGRESANDO AL SISTEMA DE ATM-------------------------------------------------------------\n")
